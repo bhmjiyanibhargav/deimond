@@ -1,0 +1,7 @@
+setup.py
+dimandprice.egg-info/PKG-INFO
+dimandprice.egg-info/SOURCES.txt
+dimandprice.egg-info/dependency_links.txt
+dimandprice.egg-info/requires.txt
+dimandprice.egg-info/top_level.txt
+scr/__init__.py
